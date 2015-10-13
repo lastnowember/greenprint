@@ -1,0 +1,121 @@
+.navbar {
+  margin-bottom: 0;
+}
+
+.navbar-default {
+  background-color: #fff;
+}
+
+.row.noise {
+  background-image: url("../img/noise.png");
+  background-color: #ccc;
+}
+
+h1 {
+  color:#fff;
+}
+
+p {
+  color:#e0e0e0;
+}
+
+.navbar-nav > li > a {
+  padding-top:27px;
+  padding-bottom:27px;
+}
+
+.navbar-brand {
+  padding:1px 15px;
+}
+
+h1.hello {
+  color:#000;
+}
+
+.control-box.contro {
+    text-align: right;
+    width: 100%;
+}
+.carousel-control.carocont {
+    background: #666;
+    border: 0px;
+    border-radius: 0px;
+    display: inline-block;
+    font-size: 34px;
+    font-weight: 200;
+    line-height: 18px;
+    opacity: 0.5;
+    padding: 4px 10px 0px;
+    position: static;
+    height: 30px;
+    width: 15px;
+}
+
+.lore {
+   margin:0;
+   background:transparent;
+}
+
+p {
+  color:#2b2b2b;
+}
+
+p.rai {
+  color:#FFF;
+  text-align: justify;
+}
+
+.modal-dialog {
+  width:630px;
+}
+
+.thumbnail {
+  margin-bottom:6px;
+  border-radius:0;
+}
+
+.pager li > a, .pager li > span {
+  border-radius: 0;
+}
+
+.btn {
+  border-radius: 0;
+}
+
+.modal-content {
+  border-radius: 0;
+}
+
+#home {
+  background: url(../img/parallax.jpg) 50% 0 fixed;
+  height: auto;
+  margin: 0 auto;
+    width: 100%;
+    position: relative;
+    box-shadow: inset 0px 0px 20px rgba(0,0,0,0.5);
+}
+
+.foot {
+  background: url(../img/about.png) #000;
+}
+
+.form-control {
+  border-radius: 0;
+}
+
+.glyphicon-phone-alt, .glyphicon-credit-card {
+  color:#72b840;
+  margin-right:10px;
+}
+
+h2, h4 {
+  color:#fff;
+}
+
+ll {
+  float:left;
+}
+
+rr {
+  float: right;
+}
